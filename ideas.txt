@@ -1,0 +1,38 @@
+Link to Oostpoort school website
+Take a photo and make it the background 
+Make some kind of game that they can play
+Show live webcam stream
+Color Picker: Let them change the background color with a color input // Also change a Heading to their name
+Deploy site and print QR codes to hand out
+Check mobile view
+
+
+
+(information technology)
+
+What are computers
+What are applications
+What is the internet
+
+We can do everything on phones and computers - order shopping, send messages, play games, watch films, pay for things
+The computers and phones need to know how to do things, they need some instructions.
+
+'Code' or 'Programming' is writing the instructions in a language that the computer understands.
+There are many languages. 
+Today we will use Javascript - the most commonly used for websites and apps
+
+One type of software engineering called 'web development' building web applications or applications
+Frontend (what you see on the screen) // restaurant tafel
+Backend (where the data comes from) // restaurant keuken
+Communication over internet // when you go on an ipad, or a phone, or often when you watch something on tv you are using an app, and the data is all coming from the internet
+
+
+How I work
+- colleagues around the world - mostly in London
+- speak on video call
+- we check each others work 
+  - make comments on their code changes
+  - ask for help
+- update the app when the code is ready
+- code assistant (maybe)
+
