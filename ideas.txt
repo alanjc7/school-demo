@@ -1,14 +1,47 @@
-Link to Oostpoort school website
 Take a photo and make it the background 
 Make some kind of game that they can play
 Show live webcam stream
-Color Picker: Let them change the background color with a color input // Also change a Heading to their name
-Deploy site and print QR codes to hand out
 Check mobile view
 
 
+===== DUTCH =====
 
-(information technology)
+IT = informatietechnologie
+
+Wat zijn computers
+Wat zijn applicaties
+Wat is het internet
+
+We kunnen alles doen op telefoons en computers - boodschappen bestellen, berichten versturen, spelletjes spelen, films kijken, dingen betalen
+De computers en telefoons moeten weten hoe ze dingen moeten doen, ze hebben instructies nodig.
+
+'Code' of 'Programmeren' is het schrijven van instructies in een taal die de computer begrijpt.
+Er zijn veel talen.
+Vandaag gebruiken we Javascript - de meest gebruikte taal voor websites en apps
+
+Een type software engineering heet 'webontwikkeling' of 'web development' voor het bouwen van webapplicaties of applicaties
+Frontend (wat je op het scherm ziet) // restaurant tafel
+Backend (waar de data vandaan komt) // restaurant keuken
+Communicatie via internet // als je op een iPad zit, of een telefoon, of vaak als je iets op tv kijkt gebruik je een app, en de data komt allemaal van het internet
+
+
+Hoe ik werk
+- collega's over de hele wereld - vooral in Londen
+- praten via videogesprek
+- we controleren elkaars werk
+  - opmerkingen maken over code-wijzigingen
+  - elkaar helpen
+- de app updaten als de code klaar is
+- tegenwoordig hebben we een code-assistent om ons te helpen
+
+
+Willen jullie een site maken?
+
+
+===== ENGLISH =====
+
+
+IT - information technology
 
 What are computers
 What are applications
@@ -26,7 +59,6 @@ Frontend (what you see on the screen) // restaurant tafel
 Backend (where the data comes from) // restaurant keuken
 Communication over internet // when you go on an ipad, or a phone, or often when you watch something on tv you are using an app, and the data is all coming from the internet
 
-
 How I work
 - colleagues around the world - mostly in London
 - speak on video call
@@ -35,4 +67,3 @@ How I work
   - ask for help
 - update the app when the code is ready
 - code assistant (maybe)
-

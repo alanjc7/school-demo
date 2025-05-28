@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import './App.css';
 import Calculator from './Calculator2';
-// import ColorPicker from './ColorPicker';
 import NameColorTable from './NameColorTable';
 import WebcamStream from './WebcamStream';
 
@@ -19,13 +18,17 @@ function App() {
     >
       <div>
         <h1>Hallo, Zebras!</h1>
-        <button onClick={() => alert('Je hebt geklikt!')}>Klik hier!</button>
+        <button
+          onClick={() => alert('Je hebt geklikt!')}
+          style={{ marginRight: '1em' }}
+        >
+          Klik hier!
+        </button>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <WebcamStream />
         <Calculator />
-        {/* <ColorPicker /> */}
         <NameColorTable />
       </div>
       <p>

@@ -29,7 +29,7 @@ function Calculator1() {
       <button onClick={handleCalculate} style={{ marginTop: '0.5em' }}>Optellen</button>
       {result !== null && (
         <div style={{ marginTop: '1em' }}>
-          <strong>Result: {result}</strong>
+          <strong>Resultaat: {result}</strong>
         </div>
       )}
     </div>
