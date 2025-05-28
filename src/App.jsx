@@ -33,7 +33,9 @@ function App() {
       </div>
       <p>
         Deze site is gemaakt door de Zebra klas van{' '}
-        <a href="https://www.deoostpoort.nl/">de Oostpoort </a>
+        <a href="https://www.deoostpoort.nl/" target="_blank">
+          de Oostpoort{' '}
+        </a>
         school
       </p>
     </div>
